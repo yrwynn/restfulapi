@@ -1,0 +1,41 @@
+   {
+         "song1" : {
+            "song" : "24",
+            "artist" : "Kanye West",
+            "genre" : "hip-hop/rap",
+            "link" : "https://www.youtube.com/watch?v=Np2IqqJ5otg",
+            "id" : 1
+         },
+      
+         "song2" : {
+            "song" : "Believe What I Say",
+            "artist" : "Kanye West",
+            "genre" : "hip-hop/rap",
+            "link" : "https://www.youtube.com/watch?v=Qp-O4eIUgf0",
+            "id": 2
+         },
+      
+         "song3" : {
+            "song" : "Ok Ok",
+            "artist" : "Kanye West",
+            "genre" : "hip-hop/rap, soul",
+            "link" : "https://www.youtube.com/watch?v=nQ94QQinn5o",
+            "id": 3
+         },
+
+         "song4" : {
+            "song" : "Jonah",
+            "artist" : "Kanye West",
+            "genre" : "rap",
+            "link" : "https://www.youtube.com/watch?v=txion5seTBA",
+            "id": 4
+         },
+      
+         "song5" : {
+            "song" : "Praise God",
+            "artist" : "Kanye West",
+            "genre" : "hip-hop/rap",
+            "link" : "https://www.youtube.com/watch?v=9sJZOGxRxwM",
+            "id": 5
+         }
+   }
